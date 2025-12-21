@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "言い訳Maybe",
+  "base_artist": "AKB48",
+  "createdAt": "2025-12-21T05:55:01.942195Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "言い訳Maybe",
+      "artist": "AKB48",
+      "has_synced": false,
+      "path": "select/01_言い訳Maybe_AKB48.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "言い訳Maybe",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/02_言い訳Maybe_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "言い訳Maybe (off vocal ver.)",
+      "artist": "AKB48",
+      "has_synced": false,
+      "path": "select/03_言い訳Maybe_(off_vocal_ver.)_AKB48.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "言い訳Maybe",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/04_言い訳Maybe_AKB48.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "言い訳Maybe",
+      "artist": "AKB48",
+      "has_synced": false,
+      "path": "select/pl_01_言い訳Maybe_AKB48.txt"
+    }
+  ]
+}
